@@ -6,5 +6,5 @@ Das wollen wir alles festhalten.
 Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche Veränderung.
 
 
-puhipsuhiblabla. TEständerung für pushpull conflict
+hier wird ein Konflikt erzeugt. Push.
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
